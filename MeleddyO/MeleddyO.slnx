@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MeleddyO/MeleddyO.vcxproj" Id="eac03824-40b7-440c-b370-70b7715bf323" />
+</Solution>
